@@ -1,0 +1,26 @@
+{
+  "name": "The King AI v24.5",
+  "short_name": "King AI",
+  "description": "مساعدك الذكي — Claude + Gemini + بحث ذكي + يعمل 100% بدون إنترنت",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#070a12",
+  "theme_color": "#070a12",
+  "lang": "ar",
+  "dir": "rtl",
+  "scope": "./",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ],
+  "categories": ["productivity", "utilities", "lifestyle"],
+  "shortcuts": [
+    { "name": "محادثة", "short_name": "دردشة", "url": "./index.html", "description": "ابدأ محادثة جديدة" },
+    { "name": "تذكيرات", "short_name": "تذكير", "url": "./index.html#reminders", "description": "أضف تذكيراً" },
+    { "name": "الذاكرة", "short_name": "ذاكرة", "url": "./index.html#memory", "description": "استعرض الذاكرة" }
+  ],
+  "screenshots": [],
+  "prefer_related_applications": false,
+  "handle_links": "preferred"
+}
